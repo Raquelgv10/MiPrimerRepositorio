@@ -1,0 +1,40 @@
+
+
+@import url("font-awesome.min.css");
+
+.sombraBloque {
+    -webkit-box-shadow: 0px 6px 13px 0px rgba(0, 0, 0, 0.06);
+    box-shadow: 0px 6px 13px 0px rgba(0, 0, 0, 0.06);
+    padding: 20px;
+    border-radius: 5px;
+    /* border-color: rgb(189, 172, 180); */
+    /* border-style: solid; */
+    border-width: 1px;
+    margin-top: 20px;
+  }
+
+
+  
+
+  #tablaformulario input{
+  margin:2%;
+  
+  }
+
+  #fila_totales{
+    margin-top:3%;
+  }
+  h1{
+    color: grey;
+  }
+  i{
+    color: grey;
+  }
+.container{
+  background-color: rgba(235, 235, 235, 0.836);
+  
+}
+
+#fila_totales input{
+  border-color:grey;
+}
